@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //atribuiçoes primeiro
     private EditText repEditNota1;
     private EditText repEditNota2;
     private EditText repEditNota3;
